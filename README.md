@@ -1,6 +1,7 @@
 # AsteroidFun
 Just a fun little project to make a basic spaceship vs. asteroid 2D game.  Using following:
 * PhysicsJS (gravity, collision, restitution)
+ * Pretty cool stuff: http://wellcaffeinated.net/PhysicsJS/
 * CSS
 
 ## HowTo
